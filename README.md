@@ -1,7 +1,8 @@
 # Mazefinder
-## Video Demo: <>
 ## Description:
 ### In a gist:
+
+This was initially for CS50P's final project, but I'm failing to find working functions that are easily testable with pytest without changing a whole lot or making things feel weirder than they are already. Will be making another... simpler, non "graphical" project, probably just for CS50P.
 
 A simple CLI game using the curses library.
 
